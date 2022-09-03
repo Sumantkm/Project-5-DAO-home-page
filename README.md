@@ -1,4 +1,4 @@
-# DAO home page - [LINK](dao5-home-page.netlify.app)
+# DAO home page - [LINK](https://dao5-home-page.netlify.app)
 ![Ineuron & LCO](https://img.shields.io/badge/Ineuron-LCO-brightgreen) 
 ![Ineuron & LCO](https://img.shields.io/badge/Hitesh%20Choudhary-Full--stack--JS--bootcamp-brightgreen)
 <br>
